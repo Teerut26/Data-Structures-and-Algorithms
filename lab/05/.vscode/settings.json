@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.vue": "vue",
+        "queue": "cpp",
+        "__bit_reference": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
