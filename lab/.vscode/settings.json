@@ -5,7 +5,9 @@
         "limits.h": "c",
         "stdio.h": "c",
         "stdlib.h": "c",
-        "string": "cpp"
+        "string": "cpp",
+        "vector": "cpp",
+        "new": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
